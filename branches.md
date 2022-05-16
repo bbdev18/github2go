@@ -61,3 +61,18 @@ $ git switch feature
 
 https://devconnected.com/how-to-switch-branch-on-git/#Switch_branch_using_git_switch
 
+# Push Local Branch To Remote
+
+https://devconnected.com/how-to-push-git-branch-to-remote/
+
+n order to push a Git branch to remote, you need to execute the `git push` command and specify the remote as well as the branch name to be pushed.
+
+```
+$ git push <remote> <branch>
+```
+
+For example, if you need to push a branch named `feature` to the `origin` remote, you would execute the following query
+
+```
+$ git push origin feature
+```
