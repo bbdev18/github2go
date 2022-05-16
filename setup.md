@@ -17,7 +17,7 @@ Assuming:
 git clone ssh_clone_address
 ```
 
-4. Try `git remove -v`
+4. Try `git remote -v`
 
 5. Make add files
 
