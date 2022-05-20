@@ -10,6 +10,13 @@ If the destination branch does not exist, you have to append the `-b` option, ot
 $ git checkout <existing_branch>
 ```
 
+To see all branches:
+
+```
+git branch -r
+```
+
+To create a new branch
 ```
 $ git checkout -b <new_branch>
 ```
