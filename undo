@@ -1,3 +1,7 @@
 # Undo
 
 https://www.earthdatascience.org/workshops/intro-version-control-git/undoing-things/
+
+# Undo git add .
+
+`git reset`
