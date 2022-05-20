@@ -4,4 +4,6 @@ https://www.earthdatascience.org/workshops/intro-version-control-git/undoing-thi
 
 # Undo git add .
 
+To undo git add before a commit, run `git reset <file>` to unstage all changes:
+
 `git reset`
